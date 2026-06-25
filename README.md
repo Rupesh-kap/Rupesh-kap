@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👋, I am Rupesh</h1>
 
-<h2 align="center">A Passionate Web Developer!</h2>
+<h2 align="center">A Passionate Web Developer,Data Science Student!</h2>
 
 
 #### About Me:
